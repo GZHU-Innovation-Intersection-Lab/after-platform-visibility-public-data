@@ -24,7 +24,8 @@ keys, or other sensitive operational materials.
 Please cite the manuscript after publication. Citation details will be added
 when available.
 
-## Contact
+## Review Anonymity
 
-Corresponding author: Jiayin Qi, Guangzhou University.
-
+This repository is prepared for anonymous peer review. Author-identifying
+contact information will be added after peer review or publication when
+appropriate.
